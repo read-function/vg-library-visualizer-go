@@ -1,0 +1,9 @@
+/config-secret.properties
+/game_artwork.db
+/go.sum
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
